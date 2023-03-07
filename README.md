@@ -3,7 +3,7 @@
 # M5Stack Examples
 This repository contains example code for each module of the M5Stack device. Each example demonstrates how to use the module's features and provides a starting point for developers to build their own projects. The code is well-documented and easy to follow, making it a great resource for both beginners and experienced users.
 
-## Getting Started
+## Getting Started 
 These examples are designed to be used with the M5Stack development board. Before you begin, make sure that you have the necessary hardware and software set up. 
 
 ## Project structure
@@ -30,6 +30,7 @@ This repository features code created by dedicated students who worked in the ma
 - Is it approved and merged? Awesome, you're helping yourself and others to create more cool stuff with M5Stack!
 
 _A make command still has to be made to generate a template for the unit that you want to add_
+
 ## License
 This repository is licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
