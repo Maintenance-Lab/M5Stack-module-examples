@@ -7,15 +7,15 @@ This repository contains example code for each module of the M5Stack device. Eac
 These examples are designed to be used with the M5Stack development board. Before you begin, make sure that you have the necessary hardware and software set up. 
 
 ## Project structure
+
     ├── LICENSE
-    ├── Makefile           <- Makefile with commands like `make data` or `make train`
-    ├── README.md          <- The top-level README for developers using this project.
+    ├── Makefile                                        <- Makefile with commands like `make data` or `make train`
+    ├── README.md                                       <- The top-level README for developers using this project.
     ├── Getting_started
-    ├── Usage_examples     <- Small projects that showcase the possibilities on the M5Stack platform
-    ├── Units              <- M5Stack products that can be bought in addition to the base platform
-    │   ├── <unit>         <- A unit such as a sensor, cameras, kits and other modules
-    │   │   ├── <module>   <- An ESP32 microcontroller such as Core, Core2, StickC-Plus
-    │   │   │   ├──  <programming>   <-  A programming language or program. Most likely UIFlow, MicroPython, Arduino 
+    ├── Usage_examples                                  <- Small projects that showcase the possibilities on the M5Stack platform
+    ├── Sensors, Controllers, Cameras, Modules, Kits    <- M5Stack components as categorized on the M5 website
+    │   ├── <programming>                               <- A programming language or program. Most likely UIFlow, MicroPython, Arduino
+            ├── <code file>                             <- [device name]_[filename].extension
     
 ## Contributions
 This repository features code created by dedicated students who worked in the maintenance lab of the Hogeschool van Amsterdam. These individuals invested a considerable amount of time and effort in creating these examples, and their hard work shines through in the high-quality code they produced.
