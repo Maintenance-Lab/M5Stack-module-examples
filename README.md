@@ -14,7 +14,7 @@ These examples are designed to be used with the M5Stack development board. Befor
     ├── Usage_examples     <- Small projects that showcase the possibilities on the M5Stack platform
     ├── Units              <- M5Stack products that can be bought in addition to the base platform
     │   ├── <unit>         <- A unit such as a sensor, cameras, kits and other modules
-    │   │   ├── <module>   <- A module such as an ESP32 microcontroller such as Core, Core2, StickC-Plus
+    │   │   ├── <module>   <- An ESP32 microcontroller such as Core, Core2, StickC-Plus
     │   │   │   ├──  <programming>   <-  A programming language or program. Most likely UIFlow, MicroPython, Arduino 
     
 ## Contributions
